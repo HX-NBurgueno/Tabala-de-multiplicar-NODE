@@ -1,6 +1,6 @@
 # Notas:
 
-Este es mi primer aplicación en Node
+Node tabla de multiplicación
 
 ```
 Options:
